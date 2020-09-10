@@ -21,6 +21,9 @@ public class BitwiseOperators {
         System.out.println("Signed Right shift operator (>>):");
         System.out.println("a >> 2 = " + a + " >> 2 = " + Integer.toBinaryString(a) + " >> 2 = " +
                 Integer.toBinaryString(a >> 2) + " = " + (a >> 2));
+        System.out.println("Unsigned Right shift operator (>>>):");
+        System.out.println("a >>> 2 = " + a + " >>> 2 = " + Integer.toBinaryString(a) + " >>> 2 = " +
+                Integer.toBinaryString(a >>> 2) + " = " + (a >>> 2));
         System.out.println("Signed Right shift operator (<<):");
         System.out.println("a << 2 = " + a + " << 2 = " + Integer.toBinaryString(a) + " << 2 = " +
                 Integer.toBinaryString(a << 2) + " = " + (a << 2));

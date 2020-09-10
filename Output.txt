@@ -13,5 +13,5 @@ Signed Right shift operator (>>):
 a >> 2 = 173 >> 2 = 10101101 >> 2 = 101011 = 43
 Unsigned Right shift operator (>>>):
 a >>> 2 = 173 >>> 2 = 10101101 >>> 2 = 101011 = 43
-Signed Right shift operator (<<):
+Signed Left shift operator (<<):
 a << 2 = 173 << 2 = 10101101 << 2 = 1010110100 = 692
